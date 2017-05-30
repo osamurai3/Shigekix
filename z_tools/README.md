@@ -1,6 +1,5 @@
-# z_tools_osx
+# z_tools
 Mac OSX用のz_toolsバイナリです．
-`z_tools`にフォルダ名を変更してご利用ください．
 
 ## 依存しているパッケージ・ソフトウエア
 - qemu
@@ -12,4 +11,6 @@ Mac OSX用のz_toolsバイナリです．
 
 ## 動作確認状況
 下記の環境での動作が確認されています。
-- Mac OSX 10.11.6
+- Mac OSX 10.12.5
+
+twitter @hikalium さんの作ったものを使わせていただいています
